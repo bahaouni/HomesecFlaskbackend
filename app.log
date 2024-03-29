@@ -1,0 +1,2043 @@
+INFO:root:Loaded 4 known faces.
+INFO:root:Encoding complete.
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:root:Loaded 4 known faces.
+INFO:root:Encoding complete.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 217-570-545
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:23:34] "[33mGET / HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:23:35] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:23:41] "[31m[1mGET /recognize HTTP/1.1[0m" 405 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\keasar\\Desktop\\back\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Loaded 4 known faces.
+INFO:root:Loaded 4 known faces.
+INFO:root:Encoding complete.
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:root:Loaded 4 known faces.
+INFO:root:Encoding complete.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 217-570-545
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:24:48] "GET /hello HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:28:05] "[33mGET /response HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:28:06] "[33mGET /response HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:28:07] "[33mGET /response HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:28:08] "[33mGET /response HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:28:09] "[33mGET /response HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:28:10] "[33mGET /response HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:28:11] "[33mGET /response HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:28:12] "[33mGET /response HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:28:13] "[33mGET /response HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:28:14] "[33mGET /response HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:28:15] "[33mGET /response HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:28:16] "[33mGET /response HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:28:17] "[33mGET /response HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:28:18] "[33mGET /response HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:28:19] "[33mGET /response HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:28:20] "[33mGET /response HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:28:21] "[33mGET /response HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:28:22] "[33mGET /response HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:28:23] "[33mGET /response HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:28:24] "[33mGET /response HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:28:25] "[33mGET /response HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:28:26] "[33mGET /response HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:28:27] "[33mGET /response HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:28:28] "[33mGET /response HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:28:29] "[33mGET /response HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:28:30] "[33mGET /response HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:28:31] "[33mGET /response HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:28:32] "[33mGET /response HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:28:33] "[33mGET /response HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:28:34] "[33mGET /response HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:28:35] "[33mGET /response HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:28:36] "[33mGET /response HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:28:37] "[33mGET /response HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:28:38] "[33mGET /response HTTP/1.1[0m" 404 -
+INFO:root:Loaded 4 known faces.
+INFO:root:Encoding complete.
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:root:Loaded 4 known faces.
+INFO:root:Encoding complete.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 217-570-545
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:30:10] "[33mGET /response HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:30:11] "[33mGET /response HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:30:12] "[33mGET /response HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:30:13] "[33mGET /response HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:30:14] "[33mGET /response HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:30:15] "[33mGET /response HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:30:16] "[33mGET /response HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:30:17] "[33mGET /response HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:30:18] "[33mGET /response HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:30:19] "[33mGET /response HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:30:20] "[33mGET /response HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:30:21] "[33mGET /response HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:30:22] "[33mGET /response HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:30:23] "[33mGET /response HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:30:24] "[33mGET /response HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:30:25] "[33mGET /response HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:30:26] "[33mGET /response HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:30:27] "[33mGET /response HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:30:28] "[33mGET /response HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:30:29] "[33mGET /response HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:30:30] "[33mGET /response HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:30:31] "[33mGET /response HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:30:32] "[33mGET /response HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:30:33] "[33mGET /response HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:30:34] "[33mGET /response HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:30:35] "[33mGET /response HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:30:36] "[33mGET /response HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:30:37] "[33mGET /response HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:30:38] "[33mGET /response HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:30:39] "[33mGET /response HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:30:40] "[33mGET /response HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:30:41] "[33mGET /response HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:30:42] "[33mGET /response HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:30:43] "[33mGET /response HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:33:04] "[31m[1mGET /recognize HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:33:05] "[31m[1mGET /recognize HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:33:06] "[31m[1mGET /recognize HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:33:07] "[31m[1mGET /recognize HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:33:08] "[31m[1mGET /recognize HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:33:09] "[31m[1mGET /recognize HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:33:10] "[31m[1mGET /recognize HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:33:11] "[31m[1mGET /recognize HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:33:12] "[31m[1mGET /recognize HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:33:13] "[31m[1mGET /recognize HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:33:14] "[31m[1mGET /recognize HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:33:15] "[31m[1mGET /recognize HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:33:16] "[31m[1mGET /recognize HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:33:17] "[31m[1mGET /recognize HTTP/1.1[0m" 405 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\keasar\\Desktop\\back\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Loaded 4 known faces.
+INFO:root:Encoding complete.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 217-570-545
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:39:22] "[31m[1mGET /recognize HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:39:23] "[31m[1mGET /recognize HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:39:24] "[31m[1mGET /recognize HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:39:24] "[31m[1mGET /recognize HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:39:25] "[31m[1mGET /recognize HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:39:26] "[31m[1mGET /recognize HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:39:27] "[31m[1mGET /recognize HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:39:28] "[31m[1mGET /recognize HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:39:28] "[31m[1mGET /recognize HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:39:29] "[31m[1mGET /recognize HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:39:30] "[31m[1mGET /recognize HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:39:31] "[31m[1mGET /recognize HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:39:31] "[31m[1mGET /recognize HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:39:32] "[31m[1mGET /recognize HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:39:32] "[31m[1mGET /recognize HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:39:33] "[31m[1mGET /recognize HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:39:33] "[31m[1mGET /recognize HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:39:34] "[31m[1mGET /recognize HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:39:34] "[31m[1mGET /recognize HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:39:35] "[31m[1mGET /recognize HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:39:35] "[31m[1mGET /recognize HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:39:36] "[31m[1mGET /recognize HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:40:13] "[31m[1mGET /recognize HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:40:14] "[31m[1mGET /recognize HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:40:14] "[31m[1mGET /recognize HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:40:15] "[31m[1mGET /recognize HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:40:16] "[31m[1mGET /recognize HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:40:16] "[31m[1mGET /recognize HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:40:17] "[31m[1mGET /recognize HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:40:18] "[31m[1mGET /recognize HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:40:18] "[31m[1mGET /recognize HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:40:19] "[31m[1mGET /recognize HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:40:23] "[31m[1mGET /recognize HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:40:23] "GET /hello HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:40:24] "[31m[1mGET /recognize HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:40:25] "GET /hello HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:40:25] "[31m[1mGET /recognize HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:40:25] "GET /hello HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:40:26] "[31m[1mGET /recognize HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:40:27] "[31m[1mGET /recognize HTTP/1.1[0m" 405 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\keasar\\Desktop\\back\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Loaded 4 known faces.
+INFO:root:Encoding complete.
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:root:Loaded 4 known faces.
+INFO:root:Encoding complete.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 217-570-545
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:41:28] "[31m[1mGET /recognize HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:41:29] "[31m[1mGET /recognize HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:41:29] "GET /hello HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:41:30] "[31m[1mGET /recognize HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:41:31] "GET /hello HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:41:31] "[31m[1mGET /recognize HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:41:32] "[31m[1mGET /recognize HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:41:33] "[31m[1mGET /recognize HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:41:34] "[31m[1mGET /recognize HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:41:35] "[31m[1mGET /recognize HTTP/1.1[0m" 405 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\keasar\\Desktop\\back\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Loaded 4 known faces.
+INFO:root:Encoding complete.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 217-570-545
+INFO:werkzeug: * Detected change in 'C:\\Users\\keasar\\Desktop\\back\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Loaded 4 known faces.
+INFO:root:Encoding complete.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 217-570-545
+INFO:werkzeug: * Detected change in 'C:\\Users\\keasar\\Desktop\\back\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Loaded 4 known faces.
+INFO:root:Encoding complete.
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:root:Loaded 4 known faces.
+INFO:root:Encoding complete.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 217-570-545
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:45:53] "[31m[1mGET /recognize HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:45:53] "[31m[1mGET /recognize HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:45:55] "[31m[1mGET /recognize HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:45:55] "[31m[1mGET /recognize HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:45:57] "[31m[1mGET /recognize HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:45:57] "[31m[1mGET /recognize HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:45:59] "[31m[1mGET /recognize HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:45:59] "GET /hello HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:45:59] "[31m[1mGET /recognize HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:46:01] "[31m[1mGET /recognize HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:46:01] "GET /hello HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:46:01] "GET /hello HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:46:02] "GET /hello HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:46:02] "[31m[1mGET /recognize HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:46:02] "GET /hello HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:46:02] "GET /hello HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:46:02] "[31m[1mGET /recognize HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [25/Mar/2024 23:46:04] "[31m[1mGET /recognize HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 00:51:52] "[31m[1mGET /recognize HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 00:51:53] "[31m[1mGET /recognize HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 00:51:54] "[31m[1mGET /recognize HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 00:51:55] "[31m[1mGET /recognize HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 00:51:56] "[31m[1mGET /recognize HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 00:51:57] "[31m[1mGET /recognize HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 00:51:58] "[31m[1mGET /recognize HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 00:51:58] "GET /hello HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 00:51:59] "[31m[1mGET /recognize HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 00:52:00] "GET /hello HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 00:52:00] "[31m[1mGET /recognize HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 00:52:01] "[31m[1mGET /recognize HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 00:52:02] "[31m[1mGET /recognize HTTP/1.1[0m" 405 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 00:52:03] "[31m[1mGET /recognize HTTP/1.1[0m" 405 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\keasar\\Desktop\\back\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Loaded 4 known faces.
+INFO:root:Encoding complete.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 217-570-545
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 00:56:18] "OPTIONS /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 00:56:19] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 00:56:19] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 00:56:21] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 00:56:21] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 00:56:22] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 00:56:23] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 00:56:24] "OPTIONS /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 00:56:25] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 00:56:25] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 00:56:26] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 00:56:27] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 00:56:29] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 00:56:29] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 00:56:31] "OPTIONS /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 00:56:31] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 00:56:31] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 00:56:32] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 00:56:33] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 00:56:35] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 00:56:35] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 00:56:36] "OPTIONS /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 00:56:37] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 00:56:37] "GET /hello HTTP/1.1" 200 -
+ERROR:root:Error processing request: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 00:56:37] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 00:56:38] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 00:56:39] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 00:56:40] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 00:56:41] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 00:56:42] "OPTIONS /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 00:56:43] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\keasar\\Desktop\\back\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Loaded 4 known faces.
+INFO:root:Encoding complete.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 217-570-545
+INFO:werkzeug: * Detected change in 'C:\\Users\\keasar\\Desktop\\back\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Loaded 4 known faces.
+INFO:root:Encoding complete.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 217-570-545
+INFO:werkzeug: * Detected change in 'C:\\Users\\keasar\\Desktop\\back\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Loaded 4 known faces.
+INFO:root:Encoding complete.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 217-570-545
+INFO:werkzeug: * Detected change in 'C:\\Users\\keasar\\Desktop\\back\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Loaded 4 known faces.
+INFO:root:Loaded 4 known faces.
+INFO:root:Encoding complete.
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:root:Loaded 4 known faces.
+INFO:root:Encoding complete.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 217-570-545
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:06:43] "OPTIONS /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Invalid base64-encoded string: number of data characters (613321) cannot be 1 more than a multiple of 4
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:06:43] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Invalid base64-encoded string: number of data characters (628945) cannot be 1 more than a multiple of 4
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:06:44] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Incorrect padding
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:06:45] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: cannot identify image file <_io.BytesIO object at 0x000001970C643290>
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:06:46] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: cannot identify image file <_io.BytesIO object at 0x000001970C7AD210>
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:06:47] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Incorrect padding
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:06:48] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:06:49] "OPTIONS /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Invalid base64-encoded string: number of data characters (651357) cannot be 1 more than a multiple of 4
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:06:49] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Invalid base64-encoded string: number of data characters (668669) cannot be 1 more than a multiple of 4
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:06:50] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: cannot identify image file <_io.BytesIO object at 0x000001970C7AEC00>
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:06:51] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Incorrect padding
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:06:52] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Incorrect padding
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:06:53] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Invalid base64-encoded string: number of data characters (665185) cannot be 1 more than a multiple of 4
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:06:54] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:06:55] "OPTIONS /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Incorrect padding
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:06:55] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Incorrect padding
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:06:56] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: cannot identify image file <_io.BytesIO object at 0x000001970C7AF4C0>
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:06:57] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: cannot identify image file <_io.BytesIO object at 0x000001970C7AF650>
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:06:58] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Invalid base64-encoded string: number of data characters (662841) cannot be 1 more than a multiple of 4
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:06:59] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: cannot identify image file <_io.BytesIO object at 0x000001970C7AF830>
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:07:00] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:07:01] "OPTIONS /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Invalid base64-encoded string: number of data characters (666085) cannot be 1 more than a multiple of 4
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:07:01] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Invalid base64-encoded string: number of data characters (664733) cannot be 1 more than a multiple of 4
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:07:02] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: cannot identify image file <_io.BytesIO object at 0x000001970C7AF240>
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:07:03] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Invalid base64-encoded string: number of data characters (664381) cannot be 1 more than a multiple of 4
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:07:04] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: cannot identify image file <_io.BytesIO object at 0x000001970C7D04F0>
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:07:05] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Invalid base64-encoded string: number of data characters (665557) cannot be 1 more than a multiple of 4
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:07:06] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:07:07] "OPTIONS /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Invalid base64-encoded string: number of data characters (668253) cannot be 1 more than a multiple of 4
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:07:07] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Invalid base64-encoded string: number of data characters (649985) cannot be 1 more than a multiple of 4
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:07:08] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Incorrect padding
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:07:09] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Incorrect padding
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:07:10] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: cannot identify image file <_io.BytesIO object at 0x000001970C7AF330>
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:07:11] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Incorrect padding
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:07:12] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:07:13] "OPTIONS /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Incorrect padding
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:07:13] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Incorrect padding
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:07:14] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: cannot identify image file <_io.BytesIO object at 0x000001970C7D0E50>
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:07:15] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Invalid base64-encoded string: number of data characters (545369) cannot be 1 more than a multiple of 4
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:07:16] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Invalid base64-encoded string: number of data characters (521157) cannot be 1 more than a multiple of 4
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:07:17] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Incorrect padding
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:07:18] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:07:19] "OPTIONS /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Invalid base64-encoded string: number of data characters (661801) cannot be 1 more than a multiple of 4
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:07:19] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Invalid base64-encoded string: number of data characters (666537) cannot be 1 more than a multiple of 4
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:07:20] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Incorrect padding
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:07:21] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:10:14] "OPTIONS /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: cannot identify image file <_io.BytesIO object at 0x000001970C7AE390>
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:10:14] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Invalid base64-encoded string: number of data characters (661945) cannot be 1 more than a multiple of 4
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:10:15] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Invalid base64-encoded string: number of data characters (663961) cannot be 1 more than a multiple of 4
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:10:16] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Incorrect padding
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:10:17] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Incorrect padding
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:10:18] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Incorrect padding
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:10:19] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:10:20] "OPTIONS /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Invalid base64-encoded string: number of data characters (659681) cannot be 1 more than a multiple of 4
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:10:20] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:10:45] "OPTIONS /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Incorrect padding
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:10:45] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Incorrect padding
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:10:46] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Incorrect padding
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:10:47] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Incorrect padding
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:10:48] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Invalid base64-encoded string: number of data characters (662961) cannot be 1 more than a multiple of 4
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:10:49] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Incorrect padding
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:10:50] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:10:51] "OPTIONS /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Incorrect padding
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:10:51] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Invalid base64-encoded string: number of data characters (662861) cannot be 1 more than a multiple of 4
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:10:52] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Incorrect padding
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:10:53] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Invalid base64-encoded string: number of data characters (664213) cannot be 1 more than a multiple of 4
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:10:54] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Incorrect padding
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:10:55] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Incorrect padding
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:10:56] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:10:57] "OPTIONS /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Invalid base64-encoded string: number of data characters (663193) cannot be 1 more than a multiple of 4
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:10:57] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Invalid base64-encoded string: number of data characters (653741) cannot be 1 more than a multiple of 4
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:10:58] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Invalid base64-encoded string: number of data characters (649753) cannot be 1 more than a multiple of 4
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:10:59] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Invalid base64-encoded string: number of data characters (640605) cannot be 1 more than a multiple of 4
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:11:00] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Invalid base64-encoded string: number of data characters (651457) cannot be 1 more than a multiple of 4
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:11:01] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Invalid base64-encoded string: number of data characters (664437) cannot be 1 more than a multiple of 4
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:11:02] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:11:03] "OPTIONS /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Invalid base64-encoded string: number of data characters (630469) cannot be 1 more than a multiple of 4
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:11:03] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Invalid base64-encoded string: number of data characters (621129) cannot be 1 more than a multiple of 4
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:11:04] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Incorrect padding
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:11:05] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\keasar\\Desktop\\back\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Loaded 4 known faces.
+INFO:root:Encoding complete.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 217-570-545
+INFO:werkzeug: * Detected change in 'C:\\Users\\keasar\\Desktop\\back\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Loaded 4 known faces.
+INFO:root:Encoding complete.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 217-570-545
+INFO:werkzeug: * Detected change in 'C:\\Users\\keasar\\Desktop\\back\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Loaded 4 known faces.
+INFO:root:Encoding complete.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 217-570-545
+INFO:werkzeug: * Detected change in 'C:\\Users\\keasar\\Desktop\\back\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Loaded 4 known faces.
+INFO:root:Encoding complete.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 217-570-545
+INFO:werkzeug: * Detected change in 'C:\\Users\\keasar\\Desktop\\back\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Loaded 4 known faces.
+INFO:root:Encoding complete.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 217-570-545
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:13:53] "OPTIONS /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Invalid base64-encoded string: number of data characters (634501) cannot be 1 more than a multiple of 4
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:13:53] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Incorrect padding
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:13:54] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Invalid base64-encoded string: number of data characters (635049) cannot be 1 more than a multiple of 4
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:13:55] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Incorrect padding
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:13:56] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Incorrect padding
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:13:57] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:14:23] "OPTIONS /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Incorrect padding
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:14:23] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Invalid base64-encoded string: number of data characters (634101) cannot be 1 more than a multiple of 4
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:14:24] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:14:25] "GET /hello HTTP/1.1" 200 -
+ERROR:root:Error processing request: Invalid base64-encoded string: number of data characters (635997) cannot be 1 more than a multiple of 4
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:14:25] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Invalid base64-encoded string: number of data characters (633693) cannot be 1 more than a multiple of 4
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:14:26] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Incorrect padding
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:14:27] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Invalid base64-encoded string: number of data characters (635553) cannot be 1 more than a multiple of 4
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:14:28] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:14:29] "OPTIONS /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Incorrect padding
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:14:30] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\keasar\\Desktop\\back\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Loaded 4 known faces.
+INFO:root:Encoding complete.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 217-570-545
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:16:15] "OPTIONS /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Invalid base64-encoded string: number of data characters (625797) cannot be 1 more than a multiple of 4
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:16:15] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Incorrect padding
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:16:16] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Invalid base64-encoded string: number of data characters (636441) cannot be 1 more than a multiple of 4
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:16:17] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Incorrect padding
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:16:18] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Incorrect padding
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:16:19] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Invalid base64-encoded string: number of data characters (616341) cannot be 1 more than a multiple of 4
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:16:20] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:16:21] "OPTIONS /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Invalid base64-encoded string: number of data characters (614605) cannot be 1 more than a multiple of 4
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:16:21] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Incorrect padding
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:16:22] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Incorrect padding
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:16:23] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Incorrect padding
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:16:24] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Incorrect padding
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:16:25] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Incorrect padding
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:16:26] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:16:27] "OPTIONS /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Invalid base64-encoded string: number of data characters (583533) cannot be 1 more than a multiple of 4
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:16:27] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Incorrect padding
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:16:28] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Incorrect padding
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:16:29] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Incorrect padding
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:16:30] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Incorrect padding
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:16:31] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Incorrect padding
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:16:32] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:16:33] "OPTIONS /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Incorrect padding
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:16:33] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Incorrect padding
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:16:34] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Incorrect padding
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:16:35] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Invalid base64-encoded string: number of data characters (564045) cannot be 1 more than a multiple of 4
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:16:36] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Invalid base64-encoded string: number of data characters (659681) cannot be 1 more than a multiple of 4
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:16:37] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Invalid base64-encoded string: number of data characters (662853) cannot be 1 more than a multiple of 4
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:16:38] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:16:39] "OPTIONS /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Invalid base64-encoded string: number of data characters (635129) cannot be 1 more than a multiple of 4
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:16:39] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Incorrect padding
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:16:40] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:16:40] "GET /hello HTTP/1.1" 200 -
+ERROR:root:Error processing request: Incorrect padding
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:16:41] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:17:22] "OPTIONS /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Incorrect padding
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:17:22] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Incorrect padding
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:17:23] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Incorrect padding
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:17:24] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Incorrect padding
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:17:25] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Invalid base64-encoded string: number of data characters (630301) cannot be 1 more than a multiple of 4
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:17:26] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Invalid base64-encoded string: number of data characters (629065) cannot be 1 more than a multiple of 4
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:17:27] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:17:28] "OPTIONS /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Incorrect padding
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:17:28] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Incorrect padding
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:17:29] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Invalid base64-encoded string: number of data characters (641661) cannot be 1 more than a multiple of 4
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:17:30] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:17:34] "OPTIONS /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Invalid base64-encoded string: number of data characters (641809) cannot be 1 more than a multiple of 4
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:17:35] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Incorrect padding
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:17:35] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Invalid base64-encoded string: number of data characters (641001) cannot be 1 more than a multiple of 4
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:17:37] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\keasar\\Desktop\\back\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Loaded 4 known faces.
+INFO:root:Encoding complete.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 217-570-545
+INFO:werkzeug: * Detected change in 'C:\\Users\\keasar\\Desktop\\back\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Loaded 4 known faces.
+INFO:root:Encoding complete.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 217-570-545
+INFO:werkzeug: * Detected change in 'C:\\Users\\keasar\\Desktop\\back\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Loaded 4 known faces.
+INFO:root:Encoding complete.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 217-570-545
+INFO:werkzeug: * Detected change in 'C:\\Users\\keasar\\Desktop\\back\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Loaded 4 known faces.
+INFO:root:Encoding complete.
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:root:Loaded 4 known faces.
+INFO:root:Encoding complete.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 217-570-545
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:27:00] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:27:00] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:27:00] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:27:00] "OPTIONS /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Invalid base64-encoded string: number of data characters (624377) cannot be 1 more than a multiple of 4
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:27:00] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Invalid base64-encoded string: number of data characters (623229) cannot be 1 more than a multiple of 4
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:27:00] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Invalid base64-encoded string: number of data characters (624129) cannot be 1 more than a multiple of 4
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:27:00] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Invalid base64-encoded string: number of data characters (622437) cannot be 1 more than a multiple of 4
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:27:00] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Incorrect padding
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:27:01] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Incorrect padding
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:27:01] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Incorrect padding
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:27:03] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Invalid base64-encoded string: number of data characters (608881) cannot be 1 more than a multiple of 4
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:27:03] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Invalid base64-encoded string: number of data characters (623725) cannot be 1 more than a multiple of 4
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:27:05] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:27:05] "OPTIONS /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Incorrect padding
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:27:06] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Incorrect padding
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:27:07] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Incorrect padding
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:27:08] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\keasar\\Desktop\\back\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Loaded 4 known faces.
+INFO:root:Encoding complete.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 217-570-545
+INFO:werkzeug: * Detected change in 'C:\\Users\\keasar\\Desktop\\back\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Loaded 4 known faces.
+INFO:root:Encoding complete.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 217-570-545
+INFO:root:Loaded 4 known faces.
+INFO:root:Encoding complete.
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:root:Loaded 4 known faces.
+INFO:root:Encoding complete.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 217-570-545
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:31:07] "OPTIONS /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Invalid base64-encoded string: number of data characters (632853) cannot be 1 more than a multiple of 4
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:31:07] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Invalid base64-encoded string: number of data characters (635837) cannot be 1 more than a multiple of 4
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:31:08] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Invalid base64-encoded string: number of data characters (634733) cannot be 1 more than a multiple of 4
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:31:09] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Incorrect padding
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:31:10] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Incorrect padding
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:31:11] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Invalid base64-encoded string: number of data characters (636665) cannot be 1 more than a multiple of 4
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:31:12] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:31:13] "OPTIONS /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Incorrect padding
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:31:13] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Invalid base64-encoded string: number of data characters (635413) cannot be 1 more than a multiple of 4
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:31:14] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\keasar\\Desktop\\back\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Loaded 4 known faces.
+INFO:root:Encoding complete.
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:root:Loaded 4 known faces.
+INFO:root:Encoding complete.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 217-570-545
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:33:55] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:33:55] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:33:56] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:33:57] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:33:58] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:33:59] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:34:00] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:34:00] "GET /hello HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:34:01] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:34:01] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 01:34:02] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Loaded 4 known faces.
+INFO:root:Encoding complete.
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:root:Loaded 4 known faces.
+INFO:root:Encoding complete.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 217-570-545
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 17:38:53] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 17:38:53] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 17:38:54] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 17:38:55] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 17:38:56] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 17:38:57] "GET /hello HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 17:38:57] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 17:38:58] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 17:38:59] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 17:38:59] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 17:39:00] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 17:39:01] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 17:39:02] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 17:40:15] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 17:40:16] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 17:40:16] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 17:40:17] "GET /hello HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 17:40:17] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 17:40:18] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\keasar\\Desktop\\back\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Loaded 4 known faces.
+INFO:root:Loaded 4 known faces.
+INFO:root:Encoding complete.
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:root:Loaded 4 known faces.
+INFO:root:Encoding complete.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 217-570-545
+INFO:werkzeug: * Detected change in 'C:\\Users\\keasar\\Desktop\\back\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Loaded 4 known faces.
+INFO:root:Encoding complete.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 217-570-545
+INFO:werkzeug: * Detected change in 'C:\\Users\\keasar\\Desktop\\back\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Loaded 4 known faces.
+INFO:root:Encoding complete.
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:root:Loaded 4 known faces.
+INFO:root:Encoding complete.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 217-570-545
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 17:46:20] "OPTIONS /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Invalid base64-encoded string: number of data characters (650897) cannot be 1 more than a multiple of 4
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 17:46:20] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: cannot identify image file <_io.BytesIO object at 0x000001B4CA84DD50>
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 17:46:21] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: cannot identify image file <_io.BytesIO object at 0x000001B4CA9BD440>
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 17:46:22] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Invalid base64-encoded string: number of data characters (652481) cannot be 1 more than a multiple of 4
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 17:46:23] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: cannot identify image file <_io.BytesIO object at 0x000001B4CA9BDE90>
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 17:46:24] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: cannot identify image file <_io.BytesIO object at 0x000001B4CA9BD850>
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 17:46:25] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 17:46:26] "OPTIONS /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: cannot identify image file <_io.BytesIO object at 0x000001B4CA9BE4D0>
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 17:46:26] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: cannot identify image file <_io.BytesIO object at 0x000001B4CA9BEA20>
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 17:46:27] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Invalid base64-encoded string: number of data characters (658345) cannot be 1 more than a multiple of 4
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 17:46:28] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: cannot identify image file <_io.BytesIO object at 0x000001B4CA9BF2E0>
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 17:46:29] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\keasar\\Desktop\\back\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Loaded 4 known faces.
+INFO:root:Encoding complete.
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:root:Loaded 4 known faces.
+INFO:root:Encoding complete.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 217-570-545
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 17:49:42] "OPTIONS /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Invalid base64-encoded string: number of data characters (642597) cannot be 1 more than a multiple of 4
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 17:49:43] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\resize.cpp:4152: error: (-215:Assertion failed) !ssize.empty() in function 'cv::resize'
+
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 17:49:43] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\resize.cpp:4152: error: (-215:Assertion failed) !ssize.empty() in function 'cv::resize'
+
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 17:49:44] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Invalid base64-encoded string: number of data characters (628285) cannot be 1 more than a multiple of 4
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 17:49:45] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\resize.cpp:4152: error: (-215:Assertion failed) !ssize.empty() in function 'cv::resize'
+
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 17:49:46] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Invalid base64-encoded string: number of data characters (629493) cannot be 1 more than a multiple of 4
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 17:49:47] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 17:49:48] "OPTIONS /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\resize.cpp:4152: error: (-215:Assertion failed) !ssize.empty() in function 'cv::resize'
+
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 17:49:49] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\imgproc\src\resize.cpp:4152: error: (-215:Assertion failed) !ssize.empty() in function 'cv::resize'
+
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 17:49:49] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\keasar\\Desktop\\back\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Loaded 4 known faces.
+INFO:root:Encoding complete.
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:root:Loaded 4 known faces.
+INFO:root:Encoding complete.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 217-570-545
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 17:51:34] "OPTIONS /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Invalid base64-encoded string: number of data characters (623373) cannot be 1 more than a multiple of 4
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 17:51:34] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Invalid base64-encoded string: number of data characters (623837) cannot be 1 more than a multiple of 4
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 17:51:34] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 17:51:35] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Invalid base64-encoded string: number of data characters (624917) cannot be 1 more than a multiple of 4
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 17:51:36] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 17:51:37] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 17:51:38] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 17:51:39] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 17:51:40] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Invalid base64-encoded string: number of data characters (621105) cannot be 1 more than a multiple of 4
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 17:51:40] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 17:51:42] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\keasar\\Desktop\\back\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Loaded 4 known faces.
+INFO:root:Encoding complete.
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:root:Loaded 4 known faces.
+INFO:root:Encoding complete.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 217-570-545
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 17:53:54] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 17:53:54] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 17:53:55] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Invalid base64-encoded string: number of data characters (658517) cannot be 1 more than a multiple of 4
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 17:53:56] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 17:53:57] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 17:53:58] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 17:53:59] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 17:54:00] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 17:54:00] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Invalid base64-encoded string: number of data characters (639489) cannot be 1 more than a multiple of 4
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 17:54:01] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 17:54:01] "GET /hello HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 17:54:02] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 17:54:03] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 17:54:04] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\keasar\\Desktop\\back\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Loaded 4 known faces.
+INFO:root:Loaded 4 known faces.
+INFO:root:Encoding complete.
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:root:Loaded 4 known faces.
+INFO:root:Encoding complete.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 217-570-545
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 17:58:00] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Received Base64 image: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAoAA...
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 17:58:01] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Received Base64 image: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAoAA...
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 17:58:01] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Received Base64 image: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAoAA...
+ERROR:root:Error processing request: Invalid base64-encoded string: number of data characters (637181) cannot be 1 more than a multiple of 4
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 17:58:02] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Received Base64 image: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAoAA...
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 17:58:03] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Received Base64 image: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAoAA...
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 17:58:04] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Received Base64 image: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAoAA...
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 17:58:05] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 17:58:06] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 17:58:06] "GET /hello HTTP/1.1" 200 -
+INFO:root:Received Base64 image: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAoAA...
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 17:58:07] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Received Base64 image: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAoAA...
+ERROR:root:Error processing request: Invalid base64-encoded string: number of data characters (647669) cannot be 1 more than a multiple of 4
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 17:58:07] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Received Base64 image: data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAoAA...
+ERROR:root:Error processing request: Invalid base64-encoded string: number of data characters (647481) cannot be 1 more than a multiple of 4
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 17:58:08] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\keasar\\Desktop\\back\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Loaded 4 known faces.
+INFO:root:Encoding complete.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 217-570-545
+INFO:root:Loaded 4 known faces.
+INFO:root:Encoding complete.
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:root:Loaded 4 known faces.
+INFO:root:Encoding complete.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 217-570-545
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 17:59:55] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 17:59:55] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 17:59:56] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 17:59:57] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 17:59:58] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 17:59:59] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:00:00] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:00:01] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:00:01] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:00:02] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:00:03] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:00:04] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:00:05] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:00:06] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:00:07] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:00:07] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:00:08] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:00:09] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:00:10] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:00:11] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:00:12] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:00:13] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:00:13] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:00:14] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:00:15] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:00:16] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:00:17] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:00:18] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:00:19] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:00:19] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:00:20] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:00:21] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:00:22] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:00:23] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:00:24] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:00:25] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:00:25] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:00:26] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:00:27] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:00:28] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:00:29] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:00:30] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:00:31] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:00:31] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:00:32] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:00:33] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:00:34] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:00:35] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:00:36] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:00:39] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:00:39] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:00:39] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:00:39] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:00:40] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:00:40] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:00:40] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:00:41] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:00:42] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:00:43] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:00:44] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:00:45] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:00:45] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:00:46] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:00:47] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:00:48] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:00:49] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:00:50] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:00:51] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:00:51] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:00:52] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:00:53] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:00:54] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: local variable 'matches' referenced before assignment
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:00:55] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: local variable 'matches' referenced before assignment
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:00:55] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:00:57] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:00:57] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:00:58] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: local variable 'matches' referenced before assignment
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:00:59] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: ELON
+INFO:root:Face recognized: ELON
+ERROR:root:Error processing request: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor u6-20020a1709063b8600b00a48f5845a7esm2739091ejf.150 - gsmtp')
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:01:01] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: ELON
+ERROR:root:Error processing request: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor g11-20020a056402428b00b00568afb0e731sm747316edc.63 - gsmtp')
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:01:02] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:01:03] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: ELON
+INFO:root:Face recognized: ELON
+INFO:root:Face recognized: ELON
+ERROR:root:Error processing request: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor u21-20020a1709067d1500b00a471123323fsm4455414ejo.144 - gsmtp')
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:01:05] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: ELON
+ERROR:root:Error processing request: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor u16-20020a170906125000b00a4664e6ad8esm4394246eja.169 - gsmtp')
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:01:06] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: ELON
+ERROR:root:Error processing request: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor u17-20020a17090663d100b00a468bcde79bsm4443801ejk.109 - gsmtp')
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:01:07] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: ELON
+ERROR:root:Error processing request: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor e5-20020a17090681c500b00a4a2bbee931sm2627039ejx.118 - gsmtp')
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:01:08] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor w2-20020a1709067c8200b00a4720ce2e75sm4381755ejo.129 - gsmtp')
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:01:08] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:01:09] "OPTIONS /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: local variable 'matches' referenced before assignment
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:01:09] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor w2-20020a1709067c8200b00a4720ce2e75sm4381842ejo.129 - gsmtp')
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:01:09] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor b19-20020aa7d493000000b0056a2b87787dsm4321706edr.37 - gsmtp')
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:01:09] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:01:10] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:01:11] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:01:12] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:01:13] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:01:14] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:01:14] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:01:15] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:01:16] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:01:17] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:01:18] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:01:19] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:01:19] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:01:20] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:01:21] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:01:23] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:01:23] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:01:24] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:01:25] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:01:26] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:01:26] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:01:27] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:05:46] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:05:46] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:05:47] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:05:48] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:05:49] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:05:53] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:05:54] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:05:54] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:05:55] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:06:46] "GET /hello HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:06:48] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:06:49] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:06:50] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:06:51] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:06:51] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: local variable 'matches' referenced before assignment
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:06:52] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: local variable 'matches' referenced before assignment
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:06:53] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:06:54] "OPTIONS /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: local variable 'matches' referenced before assignment
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:06:54] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: local variable 'matches' referenced before assignment
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:06:55] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: local variable 'matches' referenced before assignment
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:06:56] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: local variable 'matches' referenced before assignment
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:06:57] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:06:58] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:06:59] "OPTIONS /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: local variable 'matches' referenced before assignment
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:06:59] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: local variable 'matches' referenced before assignment
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:07:00] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BILL
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:07:02] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: local variable 'matches' referenced before assignment
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:07:02] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: local variable 'matches' referenced before assignment
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:07:03] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BILL
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:07:04] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:07:05] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BILL
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:07:06] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: local variable 'matches' referenced before assignment
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:07:06] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: local variable 'matches' referenced before assignment
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:07:07] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:07:08] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: ELON
+INFO:root:Face recognized: ELON
+ERROR:root:Error processing request: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor t5-20020a170906a10500b00a46aafc6948sm4374911ejy.74 - gsmtp')
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:07:11] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor m10-20020a50cc0a000000b0056b0af78d80sm4322507edi.34 - gsmtp')
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:07:11] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:07:11] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: ELON
+INFO:root:Face recognized: ELON
+ERROR:root:Error processing request: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor hj4-20020a170906874400b00a474d2d87efsm3476312ejb.139 - gsmtp')
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:07:13] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: ELON
+ERROR:root:Error processing request: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor b8-20020aa7dc08000000b0056c06d5dce1sm3313215edu.81 - gsmtp')
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:07:14] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: ELON
+ERROR:root:Error processing request: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor m19-20020a1709060d9300b00a45c9945251sm4373879eji.192 - gsmtp')
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:07:15] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: ELON
+ERROR:root:Error processing request: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor n16-20020a1709067b5000b00a465a012cf1sm4451374ejo.18 - gsmtp')
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:07:16] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: ELON
+ERROR:root:Error processing request: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor yr5-20020a170907334500b00a465fd3977esm4454087ejb.143 - gsmtp')
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:07:17] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:07:17] "OPTIONS /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor v8-20020a170906180800b00a46be5169f1sm4402198eje.181 - gsmtp')
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:07:17] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: ELON
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:07:18] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:07:19] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: (534, b'5.7.9 Application-specific password required. For more information, go to\n5.7.9  https://support.google.com/mail/?p=InvalidSecondFactor cn28-20020a0564020cbc00b0056bf2e2c898sm4357432edb.1 - gsmtp')
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:07:19] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:root:Face recognized: STEVE
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:07:21] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: STEVE
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:07:21] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: STEVE
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:07:22] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:07:23] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: STEVE
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:07:23] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:07:24] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:07:26] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:07:26] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: local variable 'matches' referenced before assignment
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:07:27] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:07:28] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:07:28] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:07:29] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:07:30] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:07:31] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:07:32] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:07:33] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:07:34] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:07:35] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:07:35] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:07:36] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:07:37] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:07:38] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:07:39] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:07:40] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:07:41] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:07:41] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:07:42] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: local variable 'matches' referenced before assignment
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:07:43] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:07:44] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:07:45] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:07:46] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:07:47] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: local variable 'matches' referenced before assignment
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:07:47] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:07:48] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: local variable 'matches' referenced before assignment
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:07:49] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: local variable 'matches' referenced before assignment
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:07:50] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: local variable 'matches' referenced before assignment
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:07:51] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:07:52] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:07:53] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:07:53] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: local variable 'matches' referenced before assignment
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:07:54] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:07:55] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:07:57] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:07:57] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:07:58] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:07:59] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:07:59] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:08:00] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:08:01] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:08:02] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:08:03] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:08:04] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:08:05] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:08:05] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:08:07] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:08:07] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:08:09] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\keasar\\Desktop\\back\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Loaded 4 known faces.
+INFO:root:Encoding complete.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 217-570-545
+INFO:werkzeug: * Detected change in 'C:\\Users\\keasar\\Desktop\\back\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Loaded 4 known faces.
+INFO:root:Encoding complete.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 217-570-545
+INFO:werkzeug: * Detected change in 'C:\\Users\\keasar\\Desktop\\back\\main.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Loaded 4 known faces.
+INFO:root:Encoding complete.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 217-570-545
+INFO:werkzeug: * Detected change in 'C:\\Users\\keasar\\Desktop\\back\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Loaded 4 known faces.
+INFO:root:Encoding complete.
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:root:Loaded 4 known faces.
+INFO:root:Encoding complete.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 217-570-545
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:10:25] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:10:26] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:10:26] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:10:27] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:10:28] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:10:29] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:10:30] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:10:31] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:10:32] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: ELON
+INFO:root:Face recognized: ELON
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:10:34] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: ELON
+INFO:root:Face recognized: ELON
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:10:36] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:10:36] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: ELON
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:10:37] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:10:38] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:10:39] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:10:39] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:10:39] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:10:39] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:10:41] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:10:41] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:10:43] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:10:43] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:10:44] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:10:45] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:10:46] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:10:47] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Loaded 4 known faces.
+INFO:root:Encoding complete.
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:root:Loaded 4 known faces.
+INFO:root:Encoding complete.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 217-570-545
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:30:16] "GET /hello HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:30:33] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:30:34] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:30:34] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:30:36] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:30:37] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:30:38] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:30:38] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:30:39] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:30:40] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: local variable 'matches' referenced before assignment
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:30:40] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BILL
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:30:42] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BILL
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:30:42] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BILL
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:30:44] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BILL
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:30:44] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:30:45] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:30:46] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:30:46] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: local variable 'matches' referenced before assignment
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:30:47] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: STEVE
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:30:48] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: STEVE
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:30:50] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: local variable 'matches' referenced before assignment
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:30:50] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:30:51] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:30:52] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:30:52] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:30:54] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:30:54] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:30:56] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: local variable 'matches' referenced before assignment
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:30:56] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:30:57] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: ELON
+INFO:root:Face recognized: ELON
+INFO:root:Face recognized: ELON
+INFO:root:Face recognized: ELON
+INFO:root:Face recognized: ELON
+INFO:root:Face recognized: ELON
+ERROR:root:Error processing request: [Errno 11001] getaddrinfo failed
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:31:09] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: [Errno 11001] getaddrinfo failed
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:31:09] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: [Errno 11001] getaddrinfo failed
+ERROR:root:Error processing request: [Errno 11001] getaddrinfo failed
+ERROR:root:Error processing request: [Errno 11001] getaddrinfo failed
+ERROR:root:Error processing request: [Errno 11001] getaddrinfo failed
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:31:09] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:31:09] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:31:09] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:31:09] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:31:09] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:31:09] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:31:09] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:31:09] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:31:09] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:31:10] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:31:10] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: ELON
+INFO:root:Face recognized: BAHA
+ERROR:root:Error processing request: [Errno 11001] getaddrinfo failed
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:31:12] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: ELON
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:31:12] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: [Errno 11001] getaddrinfo failed
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:31:12] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:31:12] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:31:12] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:31:12] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:31:13] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:31:13] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:31:13] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:31:14] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:31:15] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:31:16] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:31:17] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:31:20] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:31:21] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:31:22] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: local variable 'matches' referenced before assignment
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:31:22] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: local variable 'matches' referenced before assignment
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:31:23] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: local variable 'matches' referenced before assignment
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:31:24] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:31:26] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:31:26] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:31:27] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:31:28] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: local variable 'matches' referenced before assignment
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:31:28] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: local variable 'matches' referenced before assignment
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:31:29] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: local variable 'matches' referenced before assignment
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:31:30] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: local variable 'matches' referenced before assignment
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:31:31] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: local variable 'matches' referenced before assignment
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:31:32] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:31:33] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:31:34] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:31:35] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:31:36] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:31:36] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:31:38] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:31:39] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:31:40] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:31:41] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:31:44] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:31:45] "OPTIONS /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: local variable 'matches' referenced before assignment
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:31:45] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:31:47] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:31:50] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:31:51] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:31:51] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: local variable 'matches' referenced before assignment
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:31:53] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:31:56] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:31:57] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:31:58] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:31:59] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:32:02] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:32:03] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:32:04] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:32:05] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:32:08] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:32:09] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:32:10] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:32:11] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:32:14] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:32:15] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:32:16] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: local variable 'matches' referenced before assignment
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:32:17] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:32:20] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:32:21] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:32:22] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: local variable 'matches' referenced before assignment
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:32:23] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:32:26] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:32:27] "OPTIONS /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: local variable 'matches' referenced before assignment
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:32:27] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: local variable 'matches' referenced before assignment
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:32:29] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: local variable 'matches' referenced before assignment
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:32:31] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:32:33] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:32:34] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: local variable 'matches' referenced before assignment
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:32:35] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: local variable 'matches' referenced before assignment
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:32:37] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:32:39] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:32:40] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:32:41] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:32:44] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:32:45] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:32:46] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:32:47] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:32:49] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:32:49] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:32:50] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:32:51] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:32:51] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:32:53] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Loaded 5 known faces.
+INFO:root:Encoding complete.
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:root:Loaded 5 known faces.
+INFO:root:Encoding complete.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 217-570-545
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:35:26] "OPTIONS /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: local variable 'matches' referenced before assignment
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:35:27] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: HAIFA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:35:27] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: HAIFA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:35:29] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: HAIFA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:35:29] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: HAIFA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:35:31] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: HAIFA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:35:31] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:35:32] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: HAIFA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 18:35:33] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Loaded 5 known faces.
+INFO:root:Encoding complete.
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:root:Loaded 5 known faces.
+INFO:root:Encoding complete.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 217-570-545
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 22:32:28] "GET /hello HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:43:03] "GET /hello HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:43:05] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:43:07] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:43:07] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:43:07] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:43:08] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:43:09] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:43:11] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:43:11] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:43:11] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:45:18] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:45:19] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:45:19] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:45:20] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:45:21] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:45:22] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:45:44] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:45:45] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:45:46] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: local variable 'matches' referenced before assignment
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:45:47] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:45:48] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:45:49] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:45:50] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:45:51] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:45:52] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:45:52] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:45:53] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:45:54] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:45:55] "GET /hello HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:45:55] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:45:56] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:45:57] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:45:57] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:45:58] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:45:59] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:46:00] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:46:01] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:46:02] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:46:03] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:46:03] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:46:04] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: local variable 'matches' referenced before assignment
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:46:05] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: local variable 'matches' referenced before assignment
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:46:06] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: local variable 'matches' referenced before assignment
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:46:07] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: local variable 'matches' referenced before assignment
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:46:07] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:46:09] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:46:09] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:46:10] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:46:11] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:46:12] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:46:13] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:46:14] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:46:15] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:46:15] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:46:16] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: local variable 'matches' referenced before assignment
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:46:17] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:46:18] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:46:19] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:46:20] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:46:21] "OPTIONS /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: local variable 'matches' referenced before assignment
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:46:21] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:46:22] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:46:23] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:46:24] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:46:25] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:46:26] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:46:27] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:46:27] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:46:28] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:46:29] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:46:30] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:46:31] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:46:32] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:46:33] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:46:33] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:46:34] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:46:35] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:46:36] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:46:37] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:46:38] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:46:39] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:46:39] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:46:40] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:46:41] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:46:47] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:46:48] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:46:49] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:46:50] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:46:50] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:46:51] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:46:52] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:46:52] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:46:52] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:46:53] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:46:54] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:47:01] "GET /hello HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:47:05] "GET /hello HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:47:54] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:47:54] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:47:55] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:47:57] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:root:Face recognized: BAHA
+INFO:root:Face recognized: BAHA
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:47:59] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:47:59] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:47:59] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:47:59] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:47:59] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:47:59] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:48:01] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:root:Face recognized: BAHA
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:48:01] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:48:01] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:48:02] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:48:02] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:48:02] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:48:02] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:48:03] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:48:03] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:48:03] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:48:03] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:48:03] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:48:03] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:48:04] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:root:Face recognized: BAHA
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:48:05] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:48:05] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:48:05] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:48:05] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:48:05] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:48:06] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:48:06] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:48:06] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:48:07] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:48:07] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:48:08] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:48:09] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:48:10] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [26/Mar/2024 23:48:10] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Loaded 5 known faces.
+INFO:root:Encoding complete.
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:root:Loaded 5 known faces.
+INFO:root:Encoding complete.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 941-807-962
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 17:34:17] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 17:34:19] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 17:34:19] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 17:34:19] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 17:34:20] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 17:34:21] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 17:34:22] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 17:34:23] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 17:34:24] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 17:34:24] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 17:34:25] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 17:34:26] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 17:34:26] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\keasar\\Desktop\\back\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Loaded 5 known faces.
+INFO:root:Encoding complete.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 941-807-962
+INFO:werkzeug: * Detected change in 'C:\\Users\\keasar\\Desktop\\back\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Loaded 5 known faces.
+INFO:root:Encoding complete.
+INFO:root:Loaded 4 known faces.
+INFO:root:Encoding complete.
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:root:Loaded 4 known faces.
+INFO:root:Encoding complete.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 941-807-962
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 17:49:13] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 17:49:13] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 17:49:14] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 17:49:15] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 17:49:16] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 17:49:17] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 17:49:18] "POST /recognize HTTP/1.1" 200 -
