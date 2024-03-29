@@ -2041,3 +2041,347 @@ INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 17:49:16] "POST /recognize HTTP/1.1" 20
 INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 17:49:17] "POST /recognize HTTP/1.1" 200 -
 INFO:root:Face recognized: BAHA
 INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 17:49:18] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Loaded 4 known faces.
+INFO:root:Encoding complete.
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:root:Loaded 4 known faces.
+INFO:root:Encoding complete.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 941-807-962
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:17:14] "OPTIONS /uploadPhotos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:17:14] "POST /uploadPhotos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:17:26] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:17:27] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:17:27] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:17:29] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:17:29] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:17:31] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:17:31] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:17:32] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:17:33] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:17:34] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:17:35] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:17:35] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:17:36] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:17:37] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:20:02] "OPTIONS /uploadPhotos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:20:02] "POST /uploadPhotos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:20:07] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:20:08] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:20:09] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:20:10] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:20:10] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:20:12] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\keasar\\Desktop\\back\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Loaded 4 known faces.
+INFO:root:Encoding complete.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 941-807-962
+INFO:werkzeug: * Detected change in 'C:\\Users\\keasar\\Desktop\\back\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Loaded 4 known faces.
+INFO:root:Encoding complete.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 941-807-962
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:21:41] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:21:41] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:21:42] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:21:43] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:21:44] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:21:45] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:21:46] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:21:47] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:21:47] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:21:48] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:21:49] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:21:54] "OPTIONS /uploadPhotos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:21:54] "POST /uploadPhotos HTTP/1.1" 200 -
+INFO:root:Loaded 4 known faces.
+INFO:root:Encoding complete.
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:root:Loaded 4 known faces.
+INFO:root:Encoding complete.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 941-807-962
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:22:35] "OPTIONS /uploadPhotos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:22:35] "POST /uploadPhotos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:22:38] "POST /uploadPhotos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:22:50] "OPTIONS /uploadPhotos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:22:50] "POST /uploadPhotos HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\keasar\\Desktop\\back\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Loaded 4 known faces.
+INFO:root:Encoding complete.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 941-807-962
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:25:28] "OPTIONS /uploadPhotos HTTP/1.1" 200 -
+INFO:root:Class names updated: ['zitoun']
+ERROR:root:Error processing request: list index out of range
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:25:29] "POST /uploadPhotos HTTP/1.1" 200 -
+INFO:root:Class names updated: ['zitoun']
+ERROR:root:Error processing request: list index out of range
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:25:31] "POST /uploadPhotos HTTP/1.1" 200 -
+INFO:root:Class names updated: ['zitoun']
+ERROR:root:Error processing request: list index out of range
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:25:32] "POST /uploadPhotos HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\keasar\\Desktop\\back\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Loaded 4 known faces.
+INFO:root:Encoding complete.
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+INFO:root:Loaded 4 known faces.
+INFO:root:Encoding complete.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 941-807-962
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:29:45] "OPTIONS /uploadPhotos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:29:45] "POST /uploadPhotos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:29:46] "POST /uploadPhotos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:29:47] "POST /uploadPhotos HTTP/1.1" 200 -
+INFO:root:Class names updated: ['zitoun']
+ERROR:root:Error processing request: list index out of range
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:29:49] "POST /uploadPhotos HTTP/1.1" 200 -
+INFO:root:Class names updated: ['zitoun']
+ERROR:root:Error processing request: list index out of range
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:29:49] "POST /uploadPhotos HTTP/1.1" 200 -
+INFO:root:Class names updated: ['zitoun']
+INFO:root:Class names updated: ['zitoun']
+ERROR:root:Error processing request: list index out of range
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:29:50] "POST /uploadPhotos HTTP/1.1" 200 -
+ERROR:root:Error processing request: list index out of range
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:29:50] "POST /uploadPhotos HTTP/1.1" 200 -
+INFO:root:Class names updated: ['zitoun']
+ERROR:root:Error processing request: list index out of range
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:29:50] "POST /uploadPhotos HTTP/1.1" 200 -
+INFO:root:Class names updated: ['zitoun']
+ERROR:root:Error processing request: list index out of range
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:29:50] "POST /uploadPhotos HTTP/1.1" 200 -
+INFO:root:Class names updated: ['zitoun']
+ERROR:root:Error processing request: list index out of range
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:29:50] "POST /uploadPhotos HTTP/1.1" 200 -
+INFO:root:Class names updated: ['zitoun']
+ERROR:root:Error processing request: list index out of range
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:29:50] "POST /uploadPhotos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:29:50] "OPTIONS /uploadPhotos HTTP/1.1" 200 -
+INFO:root:Class names updated: ['zitoun']
+ERROR:root:Error processing request: list index out of range
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:29:51] "POST /uploadPhotos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:30:57] "OPTIONS /uploadPhotos HTTP/1.1" 200 -
+INFO:root:Class names updated: ['zitoun']
+ERROR:root:Error processing request: list index out of range
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:30:58] "POST /uploadPhotos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:31:30] "OPTIONS /uploadPhotos HTTP/1.1" 200 -
+INFO:root:Class names updated: ['zitoun']
+ERROR:root:Error processing request: list index out of range
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:31:30] "POST /uploadPhotos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:31:35] "OPTIONS /uploadPhotos HTTP/1.1" 200 -
+INFO:root:Class names updated: ['zitoun']
+ERROR:root:Error processing request: list index out of range
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:31:36] "POST /uploadPhotos HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\keasar\\Desktop\\back\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:root:Loaded 4 known faces.
+INFO:root:Encoding complete.
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 941-807-962
+INFO:werkzeug: * Detected change in 'C:\\Users\\keasar\\Desktop\\back\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 941-807-962
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:33:54] "OPTIONS /uploadPhotos HTTP/1.1" 200 -
+ERROR:root:Error processing request: list index out of range
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:33:54] "POST /uploadPhotos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:33:59] "OPTIONS /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: attempt to get argmin of an empty sequence
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:34:00] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: attempt to get argmin of an empty sequence
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:34:00] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: attempt to get argmin of an empty sequence
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:34:02] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: attempt to get argmin of an empty sequence
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:34:02] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: attempt to get argmin of an empty sequence
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:34:04] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: attempt to get argmin of an empty sequence
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:34:04] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:34:05] "OPTIONS /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: attempt to get argmin of an empty sequence
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:34:06] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: attempt to get argmin of an empty sequence
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:34:06] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: attempt to get argmin of an empty sequence
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:34:08] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: attempt to get argmin of an empty sequence
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:34:08] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: attempt to get argmin of an empty sequence
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:34:10] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: attempt to get argmin of an empty sequence
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:34:10] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:34:11] "OPTIONS /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: attempt to get argmin of an empty sequence
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:34:12] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:34:37] "OPTIONS /uploadPhotos HTTP/1.1" 200 -
+ERROR:root:Error processing request: list index out of range
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:34:38] "POST /uploadPhotos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:34:41] "OPTIONS /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: attempt to get argmin of an empty sequence
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:34:41] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: attempt to get argmin of an empty sequence
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:34:42] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: attempt to get argmin of an empty sequence
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:34:43] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: attempt to get argmin of an empty sequence
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:34:44] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: attempt to get argmin of an empty sequence
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:34:45] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:34:46] "OPTIONS /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: attempt to get argmin of an empty sequence
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:34:46] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: attempt to get argmin of an empty sequence
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:34:47] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: attempt to get argmin of an empty sequence
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:34:48] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: attempt to get argmin of an empty sequence
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:34:49] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:35:59] "OPTIONS /uploadPhotos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:36:00] "POST /uploadPhotos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:36:03] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:36:04] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:36:04] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:36:06] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:36:07] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:36:08] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:36:08] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:36:09] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:36:09] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:36:23] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:36:23] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:36:24] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:36:25] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:36:26] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:36:27] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:36:28] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:36:29] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:36:29] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:36:30] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:36:30] "OPTIONS /uploadPhotos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:36:30] "OPTIONS /uploadPhotos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:36:30] "POST /uploadPhotos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:36:30] "POST /uploadPhotos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:36:30] "POST /uploadPhotos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:36:30] "POST /uploadPhotos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:36:30] "POST /uploadPhotos HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:36:31] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:36:32] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:36:33] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:36:36] "OPTIONS /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: local variable 'matches' referenced before assignment
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:36:36] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:36:37] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:36:38] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:36:39] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:36:40] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:36:48] "OPTIONS /uploadPhotos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:36:48] "POST /uploadPhotos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:36:49] "POST /uploadPhotos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:36:52] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:36:53] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:36:53] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:36:54] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:36:55] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:36:56] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\keasar\\Desktop\\back\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 941-807-962
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:38:05] "OPTIONS /uploadPhotos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:38:05] "POST /uploadPhotos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:38:09] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:38:09] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:38:10] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:38:11] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:38:12] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:38:13] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:38:33] "OPTIONS /uploadPhotos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:38:34] "POST /uploadPhotos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:38:37] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: AHMED
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:38:38] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: AHMED
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:38:39] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: AHMED
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:38:40] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: AHMED
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:38:41] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: AHMED
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:38:42] "POST /recognize HTTP/1.1" 200 -
