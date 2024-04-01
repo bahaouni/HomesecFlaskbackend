@@ -2385,3 +2385,737 @@ INFO:root:Face recognized: AHMED
 INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:38:41] "POST /recognize HTTP/1.1" 200 -
 INFO:root:Face recognized: AHMED
 INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 18:38:42] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 941-807-962
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:42:30] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:42:31] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:42:32] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:42:33] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:42:34] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:42:35] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:42:36] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:42:36] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:42:37] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:42:38] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:42:39] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:42:40] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:42:41] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:42:41] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:42:42] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:42:43] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:42:43] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:42:45] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:42:46] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:42:47] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:42:47] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:42:48] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:42:49] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:42:49] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:43:21] "OPTIONS /uploadPhotos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:43:22] "POST /uploadPhotos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:43:27] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:43:27] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:43:28] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: HAIFA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:43:30] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: HAIFA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:43:30] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: HAIFA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:43:32] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: HAIFA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:43:32] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:43:33] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: HAIFA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:43:34] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: HAIFA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:43:35] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: HAIFA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:43:36] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: HAIFA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:43:36] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:43:38] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: HAIFA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:43:39] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:43:39] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: HAIFA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:43:40] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: HAIFA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:43:41] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: HAIFA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:43:42] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: HAIFA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:43:42] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: HAIFA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:43:44] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: HAIFA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:43:44] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:43:45] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: HAIFA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:43:46] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: HAIFA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:43:47] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:43:47] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:43:48] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:43:49] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:43:50] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:43:51] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:43:52] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:43:52] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:43:53] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:44:05] "OPTIONS /uploadPhotos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:44:05] "POST /uploadPhotos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:44:12] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: HAIFA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:44:13] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: HAIFA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:44:14] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:44:15] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:44:16] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:44:17] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:44:18] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:44:18] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: HAIFA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:44:19] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:44:20] "OPTIONS /uploadPhotos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:44:21] "POST /uploadPhotos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:44:21] "POST /uploadPhotos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:44:27] "OPTIONS /uploadPhotos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:44:27] "POST /uploadPhotos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:44:28] "POST /uploadPhotos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:44:28] "POST /uploadPhotos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:44:31] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:44:32] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:44:33] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:44:34] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:44:35] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:44:36] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:44:36] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:44:37] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:44:48] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: HAIFA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:44:49] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:44:50] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: HAIFA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:44:51] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: HAIFA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:44:52] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: HAIFA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:44:53] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: HAIFA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:44:54] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:44:54] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: HAIFA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:44:55] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:44:56] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:44:57] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:44:58] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:44:59] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:45:00] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:45:00] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:45:01] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: HAIFA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:45:02] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:45:42] "OPTIONS /uploadPhotos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:45:42] "POST /uploadPhotos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:45:45] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:45:46] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:45:47] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:45:48] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:45:49] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:45:50] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:45:51] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:45:52] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:45:52] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:45:52] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:45:54] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:45:55] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:45:56] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:46:01] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: HAIFA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:46:02] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: HAIFA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:46:02] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: HAIFA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:46:04] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\keasar\\Desktop\\back\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 941-807-962
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:47:58] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:47:58] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:47:59] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:48:00] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:48:01] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:48:02] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:48:03] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:48:04] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:48:04] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:48:05] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:48:06] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:48:07] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:48:08] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:48:09] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:48:29] "OPTIONS /uploadPhotos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:48:30] "POST /uploadPhotos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:48:35] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:48:35] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:48:36] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:48:37] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:48:38] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: HAIFA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:48:39] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:48:40] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: HAIFA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:48:40] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:48:41] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:48:51] "OPTIONS /uploadPhotos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:48:51] "POST /uploadPhotos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:48:54] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:48:55] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:48:56] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:48:57] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:48:57] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:48:59] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: HAIFA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:49:00] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:49:01] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: HAIFA
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:49:01] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:49:02] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:49:03] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:49:04] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:49:05] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:50:00] "OPTIONS /uploadPhotos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [29/Mar/2024 22:50:01] "POST /uploadPhotos HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 941-807-962
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:07:44] "OPTIONS /uploadPhotos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:07:45] "POST /uploadPhotos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:07:49] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+ERROR:root:Error processing request: [Errno 11001] getaddrinfo failed
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:07:50] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+ERROR:root:Error processing request: [Errno 11001] getaddrinfo failed
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:07:51] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+ERROR:root:Error processing request: [Errno 11001] getaddrinfo failed
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:07:52] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+ERROR:root:Error processing request: [Errno 11001] getaddrinfo failed
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:07:53] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+ERROR:root:Error processing request: [Errno 11001] getaddrinfo failed
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:07:54] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:07:54] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+ERROR:root:Error processing request: [Errno 11001] getaddrinfo failed
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:07:55] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+ERROR:root:Error processing request: [Errno 11001] getaddrinfo failed
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:07:56] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+ERROR:root:Error processing request: [Errno 11001] getaddrinfo failed
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:07:57] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+ERROR:root:Error processing request: [Errno 11001] getaddrinfo failed
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:07:58] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+ERROR:root:Error processing request: [Errno 11001] getaddrinfo failed
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:07:59] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+ERROR:root:Error processing request: [Errno 11001] getaddrinfo failed
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:08:00] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:08:01] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+ERROR:root:Error processing request: [Errno 11001] getaddrinfo failed
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:08:01] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+ERROR:root:Error processing request: [Errno 11001] getaddrinfo failed
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:08:02] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:12:35] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:12:35] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:12:35] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+ERROR:root:Error processing request: [Errno 11001] getaddrinfo failed
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:12:36] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:root:Face recognized: BAHA
+ERROR:root:Error processing request: [Errno 11001] getaddrinfo failed
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:12:37] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: [Errno 11001] getaddrinfo failed
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:12:37] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+ERROR:root:Error processing request: [Errno 11001] getaddrinfo failed
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:12:37] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+ERROR:root:Error processing request: [Errno 11001] getaddrinfo failed
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:12:38] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+ERROR:root:Error processing request: [Errno 11001] getaddrinfo failed
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:12:39] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+ERROR:root:Error processing request: [Errno 11001] getaddrinfo failed
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:12:39] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:12:42] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:12:42] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+ERROR:root:Error processing request: [Errno 11001] getaddrinfo failed
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:12:43] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:root:Face recognized: BAHA
+ERROR:root:Error processing request: [Errno 11001] getaddrinfo failed
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:12:44] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: [Errno 11001] getaddrinfo failed
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:12:44] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:root:Face recognized: BAHA
+ERROR:root:Error processing request: [Errno 11001] getaddrinfo failed
+ERROR:root:Error processing request: [Errno 11001] getaddrinfo failed
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:12:47] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:12:47] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:12:47] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+ERROR:root:Error processing request: [Errno 11001] getaddrinfo failed
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:12:47] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:12:48] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+ERROR:root:Error processing request: [Errno 11001] getaddrinfo failed
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:12:49] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+ERROR:root:Error processing request: [Errno 11001] getaddrinfo failed
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:12:49] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+ERROR:root:Error processing request: [Errno 11001] getaddrinfo failed
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:12:51] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+ERROR:root:Error processing request: [Errno 11001] getaddrinfo failed
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:12:51] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+ERROR:root:Error processing request: [Errno 11001] getaddrinfo failed
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:12:53] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+ERROR:root:Error processing request: [Errno 11001] getaddrinfo failed
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:12:53] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:12:54] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+ERROR:root:Error processing request: [Errno 11001] getaddrinfo failed
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:12:55] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+ERROR:root:Error processing request: [Errno 11001] getaddrinfo failed
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:12:55] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+ERROR:root:Error processing request: [Errno 11001] getaddrinfo failed
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:12:57] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+ERROR:root:Error processing request: [Errno 11001] getaddrinfo failed
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:12:57] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+ERROR:root:Error processing request: [Errno 11001] getaddrinfo failed
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:12:58] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+ERROR:root:Error processing request: [Errno 11001] getaddrinfo failed
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:12:59] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:13:32] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:root:Face recognized: BAHA
+INFO:root:Face recognized: BAHA
+INFO:root:Face recognized: BAHA
+INFO:root:Face recognized: BAHA
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:13:40] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:13:40] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:13:41] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:13:41] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:13:41] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:13:41] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:13:43] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:13:43] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:13:45] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:13:46] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+ERROR:root:Error processing request: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:14:09] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Connection unexpectedly closed
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:14:25] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: Connection unexpectedly closed: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:14:26] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\keasar\\Desktop\\back\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 941-807-962
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:15:11] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\keasar\\Desktop\\back\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 941-807-962
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:16:17] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:16:20] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:16:22] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:16:23] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:16:23] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:16:23] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:16:25] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:16:25] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:16:27] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\keasar\\Desktop\\back\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 941-807-962
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 941-807-962
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:17:00] "OPTIONS /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: local variable 'name' referenced before assignment
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:17:00] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: local variable 'name' referenced before assignment
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:17:01] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: local variable 'name' referenced before assignment
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:17:02] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: local variable 'name' referenced before assignment
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:17:03] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: local variable 'name' referenced before assignment
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:17:04] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: local variable 'name' referenced before assignment
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:17:05] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:19:31] "OPTIONS /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: local variable 'name' referenced before assignment
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:19:32] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: local variable 'name' referenced before assignment
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:19:32] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: local variable 'name' referenced before assignment
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:19:33] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: local variable 'name' referenced before assignment
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:19:34] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: local variable 'name' referenced before assignment
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:19:35] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: local variable 'name' referenced before assignment
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:19:36] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:19:37] "OPTIONS /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: local variable 'name' referenced before assignment
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:19:37] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: local variable 'name' referenced before assignment
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:19:38] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: local variable 'name' referenced before assignment
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:19:39] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: local variable 'name' referenced before assignment
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:19:40] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: local variable 'name' referenced before assignment
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:19:41] "POST /recognize HTTP/1.1" 200 -
+ERROR:root:Error processing request: local variable 'name' referenced before assignment
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:19:42] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\keasar\\Desktop\\back\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 941-807-962
+INFO:werkzeug: * Detected change in 'C:\\Users\\keasar\\Desktop\\back\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 941-807-962
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:20:25] "OPTIONS /uploadPhotos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:20:26] "POST /uploadPhotos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:20:30] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:20:31] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:20:32] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:20:33] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:20:34] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:20:35] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:20:35] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:20:37] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:20:37] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:20:37] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\keasar\\Desktop\\back\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 941-807-962
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:21:08] "OPTIONS /uploadPhotos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:21:09] "POST /uploadPhotos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:21:14] "POST /uploadPhotos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:21:17] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:21:18] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:21:18] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:21:20] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:21:20] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:21:21] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\keasar\\Desktop\\back\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 941-807-962
+INFO:werkzeug: * Detected change in 'C:\\Users\\keasar\\Desktop\\back\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 941-807-962
+INFO:werkzeug: * Detected change in 'C:\\Users\\keasar\\Desktop\\back\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 941-807-962
+INFO:werkzeug: * Detected change in 'C:\\Users\\keasar\\Desktop\\back\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 941-807-962
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 941-807-962
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:24:26] "OPTIONS /uploadPhotos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:24:27] "POST /uploadPhotos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:24:31] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:24:32] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:24:33] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:24:34] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:24:34] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:24:36] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:24:36] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:24:37] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:24:37] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:24:38] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:24:40] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\keasar\\Desktop\\back\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 941-807-962
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:26:13] "OPTIONS /uploadPhotos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:26:14] "POST /uploadPhotos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:26:19] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:26:20] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:26:20] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:26:21] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:26:22] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:26:24] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:26:25] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:26:25] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:26:26] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\keasar\\Desktop\\back\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 941-807-962
+INFO:werkzeug: * Detected change in 'C:\\Users\\keasar\\Desktop\\back\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 941-807-962
+INFO:werkzeug: * Detected change in 'C:\\Users\\keasar\\Desktop\\back\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 941-807-962
+INFO:werkzeug: * Detected change in 'C:\\Users\\keasar\\Desktop\\back\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 941-807-962
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:32:28] "OPTIONS /uploadPhotos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:32:30] "POST /uploadPhotos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:32:35] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:32:35] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:32:36] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:32:37] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:32:38] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:32:39] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:32:40] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:32:40] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:32:41] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\keasar\\Desktop\\back\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 941-807-962
+INFO:werkzeug: * Detected change in 'C:\\Users\\keasar\\Desktop\\back\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 941-807-962
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:46:41] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:46:44] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:46:45] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:46:46] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:46:47] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:46:48] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:46:49] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:46:50] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:46:51] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:46:52] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:47:19] "OPTIONS /uploadPhotos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:47:20] "POST /uploadPhotos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:47:22] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:47:23] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:47:24] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:47:25] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:47:26] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:47:27] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:47:37] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:47:38] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:47:40] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:47:40] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:47:41] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:47:43] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:49:42] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:49:43] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:49:43] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:49:44] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:49:46] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:49:47] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:49:47] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:49:48] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:49:48] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:49:49] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:50:07] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:50:08] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:50:09] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:50:10] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:50:11] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:50:16] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:50:17] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:50:17] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:50:18] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:50:19] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:50:21] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:50:26] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:50:27] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:50:27] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:50:29] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:50:29] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:50:31] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:50:31] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:50:32] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:50:33] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:50:33] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:50:35] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:50:35] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:50:37] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:50:38] "OPTIONS /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:50:39] "POST /recognize HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:50:39] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:50:40] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:50:41] "POST /recognize HTTP/1.1" 200 -
+INFO:root:Face recognized: BAHA
+INFO:werkzeug:127.0.0.1 - - [01/Apr/2024 22:50:41] "POST /recognize HTTP/1.1" 200 -

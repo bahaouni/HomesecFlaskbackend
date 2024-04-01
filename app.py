@@ -10,7 +10,12 @@ import logging
 import base64
 from PIL import Image
 from io import BytesIO
-
+import os
+import smtplib
+from email.mime.text import MIMEText
+from email.mime.multipart import MIMEMultipart
+from email.mime.base import MIMEBase
+from email import encoders
 app = Flask(__name__)
 CORS(app)
 logging.basicConfig(filename='app.log', level=logging.INFO)
@@ -63,17 +68,24 @@ def upload_photos():
         logging.error(f'Error processing request: {e}')
         return jsonify({"result": "error", "message": str(e)})
 
-def send_email(to_email):
+def send_email(to_email,recognized, annotated_image_path):
     subject = "Face Recognition Alert"
-    body = f"Face recognized: {to_email}"
+    body = f"Face recognized: {recognized}"
     sender_email = "bahaouni47@gmail.com"
     sender_password = "baHA0123*"
 
-    msg = MIMEText(body)
-    msg['Subject'] = subject
+    msg = MIMEMultipart()
     msg['From'] = sender_email
     msg['To'] = to_email
+    msg['Subject'] = subject
+    msg.attach(MIMEText(body, 'plain'))
+    with open(annotated_image_path, 'rb') as attachment:
+        part = MIMEBase('application', 'octet-stream')
+        part.set_payload(attachment.read())
+    encoders.encode_base64(part)
+    part.add_header('Content-Disposition', f'attachment; filename= {os.path.basename(annotated_image_path)}')
 
+    msg.attach(part)    
     with smtplib.SMTP('smtp.gmail.com', 587) as server:
         server.starttls()
         server.login(sender_email, "relo rrjn txck ikyl")
@@ -113,7 +125,8 @@ def recognize():
 
         face_locations = face_recognition.face_locations(img)
         face_encodings = face_recognition.face_encodings(img, face_locations)
-        
+        cv2.imwrite("annotated_image.jpg", img)
+
         recognized = "unknown"
         if face_encodings:  # Check if face encodings are found
             face_distances = face_recognition.face_distance(encode_list_known, face_encodings[0])
@@ -124,18 +137,20 @@ def recognize():
                 if matches[match_index]:
                     name = classNames[match_index].upper()
                     logging.info(f'Face recognized: {name}')
-                    if name == "ELON":
-                        send_email("bahaouni1@gmail.com")
+                    
                     recognized = name
-
                     y1, x2, y2, x1 = face_locations[0]
                     y1, x2, y2, x1 = y1 * 4, x2 * 4, y2 * 4, x1 * 4
                     cv2.rectangle(img, (x1, y1), (x2, y2), (0, 0, 255), 2)
                     cv2.rectangle(img, (x1, y2 - 35), (x2, y2), (0, 0, 255), cv2.FILLED)
                     cv2.putText(img, name, (x1 + 6, y2 - 6), cv2.FONT_HERSHEY_COMPLEX, 1, (255, 255, 255), 2)
-
-        cv2.imwrite("annotated_image.jpg", img)
-
+        annotated_image_path = "./annotated_image.jpg"
+        cv2.imwrite(annotated_image_path, img)
+        if recognized == "unknown":
+            send_email("bahaouni1@gmail.com", recognized, annotated_image_path)
+                    
+                    
+        
         return jsonify({"result": "success", "recognized": recognized})
 
     except Exception as e:
